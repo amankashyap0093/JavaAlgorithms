@@ -17,7 +17,7 @@ Please find below the list of algorithms implemented:
       A. Follows Divide and Conquer approach.
 
       B. Time Complexity - Best Case - O(n log(n))  - Worst Case - O(n2)
-      **Worst Case** - It happens when the pivot value selected is always the highest or the lowest element. 
+      Worst Case Scenario - It happens when the pivot value selected is always the highest or the lowest element. 
       Algorithm can be enhanced to take a random element as pivot in-order to avoid worst case scenario.
 
       C. Space Complexity - Space is used to store the recursion Stack.
