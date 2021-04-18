@@ -1,4 +1,4 @@
-# JavaAlgorithms
+# Algorithms implemented in Java
 
 Please find below the list of algorithms implemented:
 
